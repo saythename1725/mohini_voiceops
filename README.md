@@ -1,6 +1,5 @@
 # ZentroMart VoiceOps
 
-**Public repository:** `<add your public GitHub repository URL>`
 
 ## Setup
 
