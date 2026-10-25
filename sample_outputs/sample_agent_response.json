@@ -1,0 +1,18 @@
+{
+  "case_id": "PQ0016",
+  "customer_message": "I opened the Neelam Eau de Parfum 50 ml and tried it once. Can I still return it?",
+  "answer": "Hi there, I'm your AI support assistant from ZentroMart. According to our policies, beauty and personal care products are returnable only if unopened with the seal intact. Since you mentioned trying it once, this product is not eligible for a refund due to being opened.\n\nFor any further assistance or clarification on other items in your order, feel free to ask!",
+  "decision": "answer",
+  "retrieved_sources": [
+    "pol_returns_v4.md:RET-4",
+    "pol_cancellations.md:CAN-2",
+    "pol_returns_v4.md:RET-6",
+    "help_reverse_pickup.md:RVP-1",
+    "00_about_this_knowledge_base.md:KB-00.1",
+    "agent_conversation_style.md:STY-1",
+    "pol_returns_v4.md:RET-2",
+    "products.csv:BTY-0055"
+  ],
+  "tool_calls": [],
+  "latency_ms": 43450
+}
